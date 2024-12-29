@@ -24,14 +24,14 @@ By the end of the project, the franchise owner will have a comprehensive underst
 <a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/Cricket_Poer_bi_data.xlsx">Dataset</a>
 
 <h3>Questions (KPIs)</h3>
-- Which Country has played the most number of matches?
-- Which country has the most number of runs?
-- Who has scored the most runs across all formats?
-- Who has taken the most wickets across all formats?
-- Who are the top 5 batsmen?
-- who are the top 5 bowlers?
-- Which country has the most numbers of players?
-- Who is the all time great across all formats
+<p>- Which Country has played the most number of matches?</p>
+<p>- Which country has the most number of runs?</p>
+<p>- Who has scored the most runs across all formats?</p>
+<p>- Who has taken the most wickets across all formats?</p>
+<p>- Who are the top 5 batsmen?</p>
+<p>- who are the top 5 bowlers?</p>
+<p>- Which country has the most numbers of players?</p>
+<p>- Who is the all time great across all formats</p>
 
-- Home Dashboard <a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/Home_Dashboard.png"></a>
+<a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/Home_Dashboard.png">Home Dashboard</a>
 
