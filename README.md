@@ -49,3 +49,13 @@ By the end of the project, the franchise owner will have a comprehensive underst
 
 <a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/T20_Format_Dashboard.png">T20I Dashboard</a>
 ![T20_Format_Dashboard](https://github.com/user-attachments/assets/acdfd268-803d-4714-b790-d4fcbec4deca)
+
+<h3>Questions for ODI format (KPIs)</h3>
+<p>- How many ODI matches have been played in total?</p>
+<p>- What is the total number of runs scored in ODI cricket?<
+<p>- How many wickets have been taken in ODI matches overall?</p>
+<p>- Who are top scorers in ODI cricket?</p>
+<p>- Which players have the best batting average in ODI cricket?</p>
+
+<a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/OBI_Format_Dashboard.png">ODI Dashboard</a>
+![OBI_Format_Dashboard](https://github.com/user-attachments/assets/d986a3a4-6ee1-4436-8569-4a4b0af194c7)
