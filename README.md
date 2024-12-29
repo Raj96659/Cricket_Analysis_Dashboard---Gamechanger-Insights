@@ -35,6 +35,5 @@ By the end of the project, the franchise owner will have a comprehensive underst
 
 <a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/Home_Dashboard.png">Home Dashboard</a>
 
-<h3>Home Dashboard</h3>
 ![Home_Dashboard](https://github.com/user-attachments/assets/c5e44b44-4080-47fd-93d5-5793c70bb2e8)
 
