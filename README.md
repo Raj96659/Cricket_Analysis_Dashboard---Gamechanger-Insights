@@ -21,4 +21,4 @@ The analysis will include:
 By the end of the project, the franchise owner will have a comprehensive understanding of players' capabilities and actionable insights for building a strong T20 team.
 
 <h3>Dataset Used</h3>
-<a href=""C:\Users\Jay Sunil Sonawane\Desktop\Cricket Project\Cricket_Poer_bi_data.xlsx"">Cricket Analysis Data</a>
+<a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/Cricket_Poer_bi_data.xlsx">Dataset</a>
