@@ -37,3 +37,15 @@ By the end of the project, the franchise owner will have a comprehensive underst
 
 ![Home_Dashboard](https://github.com/user-attachments/assets/c5e44b44-4080-47fd-93d5-5793c70bb2e8)
 
+<h3>Questions for T20 format (KPIs)</h3>
+<p>- Which Country has played the most number of T20 matches?</p>
+<p>- Which country has the most number of T20 runs?</p>
+<p>- Who has scored the most runs in T20 formats?</p>
+<p>- Who has taken the most wickets in T20 formats?</p>
+<p>- Who are the top 5 batsmen in T20?</p>
+<p>- who are the top 5 bowlers in T20?</p>
+<p>- Which country has the most promising cricket talents among all nations?</p>
+<p>- Which Player have scored the most T20 hundreds and fifties</p>
+
+<a href="https://github.com/Raj96659/Cricket_Analysis_Dashboard---Gamechanger-Insights/blob/main/T20_Format_Dashboard.png">T20I Dashboard</a>
+![T20_Format_Dashboard](https://github.com/user-attachments/assets/acdfd268-803d-4714-b790-d4fcbec4deca)
