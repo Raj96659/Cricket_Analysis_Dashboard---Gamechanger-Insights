@@ -1,7 +1,7 @@
 # Cricket_Analysis_Dashboard---Gamechanger-Insights
 
 <h3>Project Objective</h3>
-The objective of this project is to assist a franchise team owner in forming a competitive T20 cricket team by leveraging data-driven insights. The project aims to analyze players' performance across all cricket formats (T20, ODI, and Test) to identify consistent performers, uncover hidden talents, and optimize team composition.
+<p>The objective of this project is to assist a franchise team owner in forming a competitive T20 cricket team by leveraging data-driven insights. The project aims to analyze players' performance across all cricket formats (T20, ODI, and Test) to identify consistent performers, uncover hidden talents, and optimize team composition.</p>
 
 The analysis will include:
 
